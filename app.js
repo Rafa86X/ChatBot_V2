@@ -20,7 +20,7 @@ const clientState = {};
 const start = (client) => {
   client.onMessage((message) => {
     const clientId = message.from;
-    
+
     // Inicializa o estado do cliente se ainda não estiver definido
     if (!clientState[clientId]) {
       clientState[clientId] = 0;
@@ -83,6 +83,7 @@ const start = (client) => {
           .then(() => {
             clientState[clientId] = 0;
           });
+          console.log(clientId);
         break;
 
       // Adicione mais casos conforme necessário
