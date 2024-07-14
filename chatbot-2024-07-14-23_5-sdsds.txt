@@ -1,0 +1,8 @@
+Pedido finalizado! Aqui está o resumo do seu pedido:
+Nome: sdsds
+Endereço: e
+xis Salada R$18,00
+Coca-Cola R$6,00
+Observação: nao
+
+Volte sempre!

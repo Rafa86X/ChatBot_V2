@@ -1,4 +1,5 @@
 const venom = require("venom-bot");
+const fs = require("fs-extra");
 
 venom
   .create({
@@ -89,7 +90,7 @@ const start = (client) => {
       anotaPedido(parseInt(message.body), clientId);
       client.sendText(message.from,
         "Certo, pedido anotado.\n\n" +
-        mostraPedido(clientId) + "\n\n" +
+         mostraPedido(clientId) + "\n\n" +
         "Gostaria de pedir outro lanche?\n\n" +
         "-> Responda:\n" +
         " Sim - Adicionar outro lanche.\n" +
@@ -115,7 +116,7 @@ const start = (client) => {
       anotaPedido(parseInt(message.body), clientId);
       client.sendText(message.from,
         "Certo, pedido anotado.\n\n" +
-        mostraPedido(clientId) + "\n\n" +
+         mostraPedido(clientId) + "\n\n" +
         "Gostaria de adicionar outra bebida?\n\n" +
         "-> Responda:\n" +
         " Sim - Adicionar outra bebida.\n" +

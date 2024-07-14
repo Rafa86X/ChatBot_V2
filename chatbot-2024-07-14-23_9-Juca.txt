@@ -1,0 +1,9 @@
+Pedido finalizado! Aqui está o resumo do seu pedido:
+Nome: Juca da Silva
+Endereço: gata numero 59
+xis Salada R$18,00
+xis Bacon R$22,00
+Coca-Cola R$6,00
+Observação: nao dna
+
+Volte sempre!
