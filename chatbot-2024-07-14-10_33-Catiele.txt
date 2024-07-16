@@ -1,0 +1,12 @@
+Pedido finalizado! Aqui está o resumo do seu pedido:
+Nome: Catiele
+Endereço: Av integração, 2525
+xis Tudo R$27,00
+xis Bacon R$22,00
+xis Bacon R$22,00
+Coca-Cola R$6,00
+Coca-Cola R$6,00
+Suco de Laranja R$8,00
+Observação: Sim
+
+Volte sempre!

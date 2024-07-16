@@ -1,0 +1,10 @@
+Pedido finalizado! Aqui está o resumo do seu pedido:
+Nome: Davi
+Endereço: 123
+xis Salada R$18,00
+xis Tudo R$27,00
+Coca-Cola R$6,00
+Suco de Laranja R$8,00
+Observação: nao
+
+Volte sempre!

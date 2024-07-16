@@ -1,0 +1,8 @@
+Pedido finalizado! Aqui está o resumo do seu pedido:
+Nome: Gabriel
+Endereço: Rua x
+xis Bacon R$22,00
+Coca-Cola R$6,00
+Observação: Não
+
+Volte sempre!
